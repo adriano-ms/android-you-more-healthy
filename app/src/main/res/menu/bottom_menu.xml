@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/miNextTasks"
+        android:icon="@drawable/baseline_calendar_month_24"
+        android:title="@string/mi_next_tasks" />
+    <item
+        android:id="@+id/miManageTasks"
+        android:icon="@drawable/baseline_format_list_bulleted_24"
+        android:title="@string/mi_manage_tasks" />
+    <item
+        android:id="@+id/miManageData"
+        android:icon="@drawable/baseline_dataset_24"
+        android:title="@string/mi_manage_data" />
+</menu>
