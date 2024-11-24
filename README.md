@@ -1,3 +1,5 @@
+**APK para instalação**: https://1drv.ms/u/s!AlvnIukafxYfj6NlkRZZO-81hXjNvA?e=clCCl9
+
 Projeto desenvolvido como trabalho semestral da disciplina de Programação Android, lecionada pelo Profº Leandro Colevati, do 4º semestre do curso de Análise e Desolvolvimento de Sistemas  da FATEC Zona Leste.
 
 # Escopo: Saúde Pessoal
